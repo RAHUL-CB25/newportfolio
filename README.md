@@ -7,7 +7,7 @@ I'm **Rahul Raj**, a passionate and creative **Full Stack Web Developer**, drive
 🔗 **Live Portfolio**: https://rahul-cb25.github.io/newportfolio/
 ## 🧠 About Me
 
-Currently pursuing my degree in Computer Science, I’m focused on building modern web applications that are both functional and aesthetically pleasing. I enjoy creating platforms that bring value to users — especially in fields like agriculture, travel, and productivity.
+Currently pursuing my degree in Computer Science and d Business System, I’m focused on building modern web applications that are both functional and aesthetically pleasing. I enjoy creating platforms that bring value to users — especially in fields like agriculture, travel, and productivity.
 
 💡 _"I believe good code is like good design — simple, elegant, and user-focused."_
 
@@ -16,6 +16,7 @@ Currently pursuing my degree in Computer Science, I’m focused on building mode
 
 ## 💼 What You’ll Find in This Portfolio
 🔗 **Live Portfolio**: https://rahul-cb25.github.io/newportfolio/
+
 ✅ About Me Section  
 ✅ Skills Overview  
 ✅ Featured Projects (with live links)  
@@ -39,7 +40,7 @@ Currently pursuing my degree in Computer Science, I’m focused on building mode
 ## 📄 Resume
 
 📥 You can download my resume directly from the https://rahul-cb25.github.io/newportfolio/of the portfolio.  
-Or [click here](#) if you've hosted it elsewhere.
+
 
 ---
 
